@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customannotation/custom-annotation.iml" filepath="$PROJECT_DIR$/customannotation/custom-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-monkey01-sample.iml" filepath="$PROJECT_DIR$/java-monkey01-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacompile/javacompile.iml" filepath="$PROJECT_DIR$/javacompile/javacompile.iml" />
+    </modules>
+  </component>
+</project>
